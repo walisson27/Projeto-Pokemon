@@ -1,11 +1,9 @@
 <h1 align="center">
      Pokémon
 </h1>
-
 <h4 align="center">
   🚀 Desenvolvido com Vuejs
 </h4>
-
 <p align="center">
   <a href="https://projeto-pokemon-blue.vercel.app/">Pagina do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
