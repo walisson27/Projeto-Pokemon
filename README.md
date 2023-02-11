@@ -23,7 +23,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - HTML
 - Utilizando Api [PokéAPI](https://pokeapi.co/)
-
 <br>
 
 ## 💻 Instalação
